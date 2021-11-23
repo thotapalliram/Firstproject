@@ -4,7 +4,7 @@
 </head>
 <body>
 <<<<<<< HEAD
-<B>GIT Session has started at 12pm</B>
+<B>GIT Session has started without team</B>
 =======
 <B>GIT Session has started at 10 am</B>
 >>>>>>> 1ce05f1f204426a8a853f7a17b836a2ad8ee09af
