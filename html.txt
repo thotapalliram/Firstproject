@@ -3,6 +3,6 @@
 <title>First Programme in HTML </title>
 </head>
 <body>
-<B>GIT Session has started on 24th November 2021</B>
+<B>GIT Session has started on 24th November 2021 12:00PM</B>
 </body>
 </html>
