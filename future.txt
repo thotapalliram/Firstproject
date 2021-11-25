@@ -3,6 +3,6 @@
 <title>Second Programme in HTML </title>
 </head>
 <body>
-<B>GIT Future Project Created </B>
+<B>GIT Future Project  </B>
 </body>
 </html>
